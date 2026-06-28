@@ -1,1 +1,1 @@
-This project is created as part of developing a solution to mitigate LLM hallucinations in Clinical settings using Asymmetric Agentic Networks.
+This project is created as part of developing a solution to mitigate LLM hallucinations in Clinical settings using Asymmetric Agentic Networks. Version 1.0 is the code for sample of data. You can reach hembabu78@gmail.com to get code base for a live project.
